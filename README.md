@@ -1,6 +1,6 @@
 Hi 👋, My name is Gautam Sharma and I love solving technical problems and sharing my knowledge with others. I quickly get overwhelmed and looking for ways to do more in less time.
 
-I'm a 13+ year veteran of IT and experienced on multiple products from Microsoft, Google, Symantec, Good, Blackberry, Quest, etc. My current focus is on design and implementation and integrate new product/technology with existing infra, providing solution on for Migration, up-gradation and green field setup, but not limited to, on Identity, Messaging, Microsoft 365, Mobility, and Azure. 
+I'm a 15+ year veteran of IT and experienced on multiple products from Microsoft, Google, Symantec, Good, Blackberry, Quest, etc. My current focus is on design and implementation and integrate new product/technology with existing infra, providing solution on for Migration, up-gradation and green field setup, but not limited to, on Identity, Messaging, Microsoft 365, Mobility, and Azure. 
 
 As I’m mostly working with Microsoft systems, PowerShell quickly became my scripting language of choice. By doing more I slowly felt more confident to share my code and solutions with others.
 
