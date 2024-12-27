@@ -1,6 +1,5 @@
-Hi 👋, My name is Gautam Sharma and I love solving technical problems and sharing my knowledge with others. I quickly get overwhelmed and looking for ways to do more in less time.
-
-I’m having more than 16 years of experience in the IT industry, with deep knowledge in products from leading technology companies such as Microsoft (including Intune, EXO, Teams, and Entra ID), Omnissa (Workspace ONE), OKTA, Quest, and others. My current focus is on consulting, implementing, migrating, upgrading, and integrating tools and technologies into the modern workplace to enhance user experience while keeping security and stability. 
+Hello 👋, I am Gautam Sharma. I specialize in solving technical problems and sharing my knowledge with others. My goal is to consistently find ways to increase productivity and efficiency.
+With over 16 years of experience in the IT industry, I possess extensive expertise in products from leading technology companies such as Microsoft (including Intune, EXO, Teams, and Entra ID), Omnissa (Workspace ONE), OKTA, Quest, and others. My current focus is on consulting, implementing, migrating, upgrading, and integrating tools and technologies into the modern workplace to enhance user experience while ensuring the security and stability of the environment.
 
 ### Innovation: 
 Developed an automated tool for ***tenant-to-tenant Windows Device Migration***, to streamline, simplify the migration process, making it more efficient and user-friendly, reducing the time and effort required for migrations.
